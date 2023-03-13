@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rol506
 - 👀 I’m interested in programming and computer games
 - 🌱 I’m currently learning at school
-- 💞️ I’m  looking to collaborate on google, samsung and yandex
+- 💞️ I’m  looking to collaborate with google, samsung and yandex
 - 📫 How to reach me: my phone number +79052439208
 
 <!---
