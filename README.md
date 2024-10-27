@@ -1,5 +1,5 @@
 # ROL506:
-I am working on projects for old computers<br>You can see my latest project [here](https://github.com/rol506/Platformer)<br><br>I am currently learning at school<br><br>I love programming, especially in C++<br><br>Also I have experience of programming in Python and making websites<br>
+I am working on projects for old computers<br>I am currently learning at school<br><br>I love programming, especially in C++<br><br>Also I have experience of programming in Python and making websites<br>
 
 
 # TECH STACK:
