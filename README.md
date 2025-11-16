@@ -1,6 +1,7 @@
 # ROL506:
-I am working on projects for old computers<br>I am currently learning at school<br><br>I love programming, especially in C++<br><br>Also I have experience of programming in Python and making websites<br>
-
+Fullstack-разработчик с опытом разработки на C++, C# .Net и Python. Создаю серверные высоконагруженные приложения, базы данных, веб-интерфейсы, API, автоматизированные системы, инструменты и многое другое. Уже долгое время использую Arch Linux, как основную систему. В 2025 году занял II место в региональном этапе конкурса "Моя профессия - ИТ".<br>
+<br>
+Узнать [подробнее](https://rol506.github.io) обо мне.
 
 # TECH STACK:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
